@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 0e448c356a3f69448a4ec8c1cfd23ab7
+timeCreated: 1497884949
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - interactionModeSystem: {fileID: 1000012320859490, guid: cd66a4fe28acf7c4080e81336a64507b,
+      type: 2}
+  - atomsBonds: {fileID: 1680026413868418, guid: d80f631c940015241b1a90b9d850afd4,
+      type: 2}
+  - HierarchyRoot: {instanceID: 0}
+  - satAtom: {instanceID: 0}
+  - bondPrefab: {instanceID: 0}
+  - doubleBondPrefab: {instanceID: 0}
+  - tripleBondPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
